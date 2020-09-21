@@ -438,6 +438,7 @@ namespace WindowsFormsApplication17
                 }
             }
             internal int r = 0;
+
             private void ОформлениеПродажи_Click(object sender, EventArgs e)
             {
             
