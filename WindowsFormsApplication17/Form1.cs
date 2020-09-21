@@ -437,7 +437,7 @@ namespace WindowsFormsApplication17
                     ЛистОстатка.Items.Add(a);
                 }
             }
-        internal int r = 0;
+            internal int r = 0;
             private void ОформлениеПродажи_Click(object sender, EventArgs e)
             {
             
